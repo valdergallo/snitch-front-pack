@@ -1,0 +1,18 @@
+.Login {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.Login input {
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.Login div.error_msg {
+    margin-top: 20px;
+    padding: 10px;
+    color: red;
+    font-weight: bolder;
+}
