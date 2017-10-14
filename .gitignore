@@ -1,3 +1,7 @@
+# Node
+build/*
+*lock.json
+
 # Logs
 logs
 *.log
