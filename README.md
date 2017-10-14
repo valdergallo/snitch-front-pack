@@ -25,3 +25,13 @@ But the GraphQL for python is more slower than DRF.
   - load the links from DRF 
   - check if user is loged
   - protect the links without login
+
+## to developer
+
+| commands   |  description         | 
+|------------|----------------------|
+| npm start  | run developer server |
+
+
+## todo
+  - I need make some testes here ...
